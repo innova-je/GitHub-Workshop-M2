@@ -1,27 +1,29 @@
 # GitHub Workshop - 11/11/2021
 
-## Exemplo:
-- [AR]  
-<br>
+## Example
 
-## Exercício:
-- [AA] 
-- [BV] 
-- [CF] 
-- [DA] 
-- [DD] 
-- [GC] 
-- [HC] 
-- [IC] 
-- [IP] 
-- [JI] 
-- [JP] 
-- [JO] 
-- [JR] 
-- [JS] 
-- [MI] 
-- [MP] 
-- [PM] 
-- [RS] 
-- [RC] 
-- [RR] 
+- [FL] Firstname Lastname
+- [AR]  
+
+## Exercise
+
+- [AA]
+- [BV]
+- [CF]
+- [DA]
+- [DD]
+- [GC]
+- [HC]
+- [IC]
+- [IP]
+- [JI]
+- [JP]
+- [JO]
+- [JR]
+- [JS]
+- [MI]
+- [MP]
+- [PM]
+- [RS]
+- [RC]
+- [RR]
