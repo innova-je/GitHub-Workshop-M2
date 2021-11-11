@@ -20,7 +20,7 @@
 - [JP]
 - [JO]
 - [JR]
-- [JS]
+- [JS] Joao Simoes
 - [MI]
 - [MP]
 - [PM]
