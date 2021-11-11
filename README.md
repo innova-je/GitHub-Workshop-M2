@@ -12,7 +12,7 @@
 - [CF]Carolina Fernandes
 - [DA]
 - [DD] Daniel Dias
-- [GC]
+- [GC] Gonçalo Carvalho
 - [HC]
 - [IC]
 - [IP]
