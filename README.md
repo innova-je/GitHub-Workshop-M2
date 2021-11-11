@@ -19,7 +19,7 @@
 - [JI]
 - [JP]
 - [JO]
-- [JR]
+- [JR] João Raimundo
 - [JS]
 - [MI]
 - [MP]
