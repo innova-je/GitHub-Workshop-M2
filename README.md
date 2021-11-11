@@ -11,7 +11,7 @@
 - [BV]
 - [CF]
 - [DA]
-- [DD]
+- [DD] Daniel Dias
 - [GC]
 - [HC]
 - [IC]
