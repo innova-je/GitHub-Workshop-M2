@@ -3,27 +3,28 @@
 ## Example
 
 - [FL] Firstname Lastname
-- [AR]  
+- [AR] Ana Rebelo
 
 ## Exercise
 
 - [AA]
 - [BV]
-- [CF]
+- [CF]Carolina Fernandes
 - [DA]
-- [DD]
-- [GC]
+- [DD] Daniel Dias
+- [GC] Gonçalo Carvalho
 - [HC]
 - [IC]
 - [IP]
 - [JI]
-- [JP]
+- [JP] Joana Pacheco
 - [JO]
-- [JR]
-- [JS]
+- [JR] João Raimundo
+- [JS] Joao Simoes
 - [MI] Maria Inês
 - [MP]
 - [PM]
 - [RS]
-- [RC]
-- [RR]
+- [RC]Renata Cardoso
+- [RR]Rodrigo Rosa
+
