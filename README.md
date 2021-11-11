@@ -17,7 +17,7 @@
 - [IC]
 - [IP]
 - [JI]
-- [JP]
+- [JP] Joana Pacheco
 - [JO]
 - [JR]
 - [JS]
