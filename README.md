@@ -3,7 +3,7 @@
 ## Example
 
 - [FL] Firstname Lastname
-- [AR]  
+- [AR] Ana Rebelo
 
 ## Exercise
 
