@@ -11,7 +11,7 @@
 - [BV]
 - [CF]Carolina Fernandes
 - [DA]
-- [DD]
+- [DD] Daniel Dias
 - [GC]
 - [HC]
 - [IC]
