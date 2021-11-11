@@ -21,7 +21,7 @@
 - [JO]
 - [JR] João Raimundo
 - [JS] Joao Simoes
-- [MI]
+- [MI] Maria Inês
 - [MP]
 - [PM]
 - [RS]
