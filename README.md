@@ -25,5 +25,5 @@
 - [MP]
 - [PM]
 - [RS]
-- [RC]
+- [RC] Renata Cardoso
 - [RR]
