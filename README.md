@@ -12,7 +12,7 @@
 - [CF]
 - [DA]
 - [DD]
-- [GC]
+- [GC] Gonçalo Carvalho
 - [HC]
 - [IC]
 - [IP]
