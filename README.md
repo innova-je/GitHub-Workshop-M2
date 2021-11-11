@@ -21,7 +21,7 @@
 - [JO]
 - [JR]
 - [JS]
-- [MI]
+- [MI] Maria Inês
 - [MP]
 - [PM]
 - [RS]
