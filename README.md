@@ -15,7 +15,7 @@
 - [GC] Gonçalo Carvalho
 - [HC]
 - [IC]
-- [IP]
+- [IP] Inês Pinto
 - [JI]
 - [JP] Joana Pacheco
 - [JO]
