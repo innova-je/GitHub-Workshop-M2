@@ -20,7 +20,7 @@
 - [JP] Joana Pacheco
 - [JO]
 - [JR]
-- [JS]
+- [JS] Joao Simoes
 - [MI]
 - [MP]
 - [PM]
