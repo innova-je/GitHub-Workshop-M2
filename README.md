@@ -15,7 +15,7 @@
 - [GC]
 - [HC]
 - [IC]
-- [IP]
+- [IP] Inês Pinto
 - [JI]
 - [JP]
 - [JO]
