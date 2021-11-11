@@ -19,7 +19,7 @@
 - [JI]
 - [JP] Joana Pacheco
 - [JO]
-- [JR]
+- [JR] João Raimundo
 - [JS] Joao Simoes
 - [MI]
 - [MP]
