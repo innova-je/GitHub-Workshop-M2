@@ -7,7 +7,7 @@
 
 ## Exercise
 
-- [AA]
+- [AA] Alexandre Alheio
 - [BV]
 - [CF]Carolina Fernandes
 - [DA]
